@@ -1,5 +1,5 @@
 # 743859910.github.io
-Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
+Github Pages 模板基于 HTML 和 Markdown，适用于个人、基于作品集的网站。
 
 ---
 
