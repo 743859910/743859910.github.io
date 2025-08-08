@@ -25,7 +25,7 @@ Github Pages 模板基于 HTML 和 Markdown，适用于个人、基于作品集�
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/{743859910.github.io}/count.svg)
+![name](https://api.likepoems.com/counter/get/@743859910.github.io)
 
 ---
 
