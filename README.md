@@ -4,23 +4,23 @@ Github Pages 模板基于 HTML 和 Markdown，适用于个人、基于作品集�
 ---
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/743859910.github.io/master/img/image/images/1.webp">
+  <img src="img/image/images/1.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/743859910.github.io/master/img/image/images/2.webp">
+  <img src="img/image/images/2.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/743859910.github.io/master/img/image/images/3.webp">
+  <img src="img/image/images/3.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/743859910.github.io/master/img/image/images/4.webp">
+  <img src="img/image/images/4.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/743859910.github.io/master/img/image/images/5.webp">
+  <img src="img/image/images/5.webp">
 </p>
 
 ---
